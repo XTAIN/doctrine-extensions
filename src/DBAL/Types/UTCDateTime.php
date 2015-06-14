@@ -1,6 +1,6 @@
 <?php
 
-namespace XTAIN\DoctrineExtensions;
+namespace XTAIN\DoctrineExtensions\DBAL\Types;
 
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use Doctrine\DBAL\Types\ConversionException;
