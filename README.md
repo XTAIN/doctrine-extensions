@@ -10,3 +10,4 @@ Configuration in Symfony 2:
         dbal:
             types:
                 datetime: XTAIN\DoctrineExtensions\DBAL\Types\UTCDateTimeType
+                datetime_nullable: XTAIN\DoctrineExtensions\DBAL\Types\UTCDateTimeTypeNullable
