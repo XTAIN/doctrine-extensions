@@ -10,7 +10,8 @@
         }
     ],
     "require":      {
-        "php":  ">=5.3.3"
+        "php":  ">=5.3.3",
+	"doctrine/dbal": "~2"
     },
     "autoload": {
         "psr-4": { "XTAIN\\DoctrineExtensions\\": "src/" }
